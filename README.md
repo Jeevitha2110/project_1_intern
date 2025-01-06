@@ -8,3 +8,7 @@ Set appropriate bucket permissions and policies for secure access.
 Enable versioning for the S3 bucket to track changes to uploaded images.
 Research and enable lifecycle rules for automatic transition of objects to lower-cost storage (e.g., Glacier).
 Deliverable: A fully configured S3 bucket ready to store images.
+
+
+https://github.com/user-attachments/assets/a2100b7f-768b-4849-877e-36ed4d766981
+
